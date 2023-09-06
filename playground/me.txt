@@ -1,6 +1,0 @@
-{{#user}}
-Name: Anushka
-Skills: HTML, CSS,C++, Python, Django, Jupyter Notebook, Libraries: Pandas, Matplotlib
-Email: saraswatanushka007@gmail.com
-{{/user}}
-
